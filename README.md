@@ -3,9 +3,9 @@
 This project aimed at understanding how to develop linked list data structure and use it to implement Merkle-Hellman knapsack crypto system and Merkle Tree. Tasks involved on a
 high-level are:
 
-A) Designing linked list using appropriate classes, methods to insert, remove data read from csv file.
-B) Implement Merkle-Hellman knapsack crypto system - Generating public key, private key, implenting encryption and decryption algorithms.
-C) Given a hash (signature) determine the csv file it belongs to using MerkleTree.
+<li>Designing linked list using appropriate classes, methods to insert, remove data read from csv file.
+<li>Implement Merkle-Hellman knapsack crypto system - Generating public key, private key, implenting encryption and decryption algorithms.
+<li>Given a hash (signature) determine the csv file it belongs to using MerkleTree.
 
 ## References
 1. Merkle-Hellman knapsack crypto system - https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem
