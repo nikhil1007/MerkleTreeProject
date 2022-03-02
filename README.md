@@ -11,4 +11,5 @@ high-level are:
 1. Merkle-Hellman knapsack crypto system - https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem
 2. Merkle Tree - https://en.wikipedia.org/wiki/Merkle_tree
 3. Linked List - https://en.wikipedia.org/wiki/Linked_list
+4. Data structures and Algorithms by A.Prof Michael McCarthy @ Carnegie Mellon University, Heinz College
 
